@@ -25,8 +25,8 @@
 <hr></hr>
 
 ### TechnologyKnown
-- ReactJS
-- NodeJS
+- React JS
+- Node JS
 - MongoDB
 - HTML
 - CSS
