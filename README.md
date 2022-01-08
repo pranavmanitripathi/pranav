@@ -24,7 +24,7 @@
 
 <hr></hr>
 
-### TechnologyKnown
+### Technology Known
 - React JS
 - Node JS
 - MongoDB
