@@ -19,7 +19,9 @@
 - Java
 - JavaScript
 - Python
+- C
 - MySQL
+
 <hr></hr>
 
 ### TechnologyKnown
