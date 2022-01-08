@@ -18,19 +18,16 @@
 ### Language Known
 - Java
 - JavaScript
-<img src="https://img.shields.io/badge/-Java-green"/>
-<img src="https://img.shields.io/badge/-JavaScript-orange"/>
-<img src="https://img.shields.io/badge/-Python-blue"/>
-<img src="https://img.shields.io/badge/-MySQL-white"/>
-<img src="https://img.shields.io/badge/-C  -golden"/>
+- Python
+- MySQL
 <hr></hr>
 
 ### TechnologyKnown
-<img src="https://img.shields.io/badge/-ReactJS-green"/>
-<img src="https://img.shields.io/badge/-NodeJS-orange"/>
-<img src="https://img.shields.io/badge/-MongoDB-blue"/>
-<img src="https://img.shields.io/badge/-HTML-white"/>
-<img src="https://img.shields.io/badge/-CSS-golden"/>
+- ReactJS
+- NodeJS
+- MongoDB
+- HTML
+- CSS
 
 <hr></hr>
 
