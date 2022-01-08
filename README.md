@@ -16,6 +16,8 @@
 <hr></hr>
 	
 ### Language Known
+- Java
+- JavaScript
 <img src="https://img.shields.io/badge/-Java-green"/>
 <img src="https://img.shields.io/badge/-JavaScript-orange"/>
 <img src="https://img.shields.io/badge/-Python-blue"/>
@@ -40,7 +42,7 @@
 
 <hr></hr>
 
-### 📫 How to reach me: ...
+### Contact me
 [<img src="https://img.shields.io/badge/-Portfolio-red"/>](https://pranavmani-portfolio.netlify.app/)
 [<img src="https://img.shields.io/badge/-E Mail-blue"/>](mailto:pranavtripathikishan26@gmail.com)
 [<img src="https://img.shields.io/badge/-Linked In-white"/>](https://www.linkedin.com/in/pranavmanitripathi/)
