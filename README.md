@@ -8,9 +8,9 @@
 ## About me
 
 - Programmer | Full Stack Developer<br>
-- ECE 4th Year at DSCE <br>
+- Software Engineer at Accolite Digital <br>
 - I am currently learning Advance Data Structures and Algorithms.<br> 
-- Currently learning new technologies such as Blockchain and many more.
+- Currently learning new tech stack such as Mobile App Development.
 <br><br>
 
 <hr></hr>
@@ -19,7 +19,6 @@
 - Java
 - JavaScript
 - Python
-- C
 - MySQL
 
 <hr></hr>
@@ -27,7 +26,7 @@
 ### Technology Known
 - React JS
 - Node JS
-- MongoDB
+- React Native
 - HTML
 - CSS
 
@@ -37,6 +36,7 @@
 ### Coding Profiles
 [<img src="https://img.shields.io/badge/-GFG-golden"/>](https://auth.geeksforgeeks.org/user/pranavmani/practice/)
 [<img src="https://img.shields.io/badge/-Binary Search-green"/>](https://binarysearch.com/@/exception)
+[<img src="https://img.shields.io/badge/-Leet Code-orange"/>](https://leetcode.com/pranavtripathikishan26/)
 [<img src="https://img.shields.io/badge/-Code Chef-blue"/>](https://www.codechef.com/users/pranavmani22)
 
 <hr></hr>
