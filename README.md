@@ -10,7 +10,7 @@
 - Programmer | Full Stack Developer<br>
 - Software Engineer at Accolite Digital <br>
 - I am currently learning Advance Data Structures and Algorithms.<br> 
-- Currently learning new tech stack such as Mobile App Development.
+- Currently working on React and Spring Boot.
 <br><br>
 
 <hr></hr>
@@ -18,7 +18,7 @@
 ### Language Known
 - Java
 - JavaScript
-- Python
+- TypeScript
 - MySQL
 
 <hr></hr>
@@ -27,6 +27,11 @@
 - React JS
 - Node JS
 - React Native
+- Spring Boot
+- Hiberante
+- Spring Security
+- Maven
+- AWS
 - HTML
 - CSS
 
