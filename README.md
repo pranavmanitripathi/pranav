@@ -14,6 +14,12 @@
 <br><br>
 
 <hr></hr>
+<br>
+<h2>📊 Github Stats</h2>
+
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavmanitripathi&theme=onedark)
+
+<br>
 	
 ### Language Known
 - Java
@@ -40,14 +46,14 @@
 
 
 ### Coding Profiles
-[<img src="https://img.shields.io/badge/-GFG-golden"/>](https://auth.geeksforgeeks.org/user/pranavmani/practice/)
-[<img src="https://img.shields.io/badge/-Binary Search-green"/>](https://binarysearch.com/@/exception)
 [<img src="https://img.shields.io/badge/-Leet Code-orange"/>](https://leetcode.com/pranavtripathikishan26/)
+[<img src="https://img.shields.io/badge/-GFG-golden"/>](https://auth.geeksforgeeks.org/user/pranavmani/)
+[<img src="https://img.shields.io/badge/-Binary Search-green"/>](https://binarysearch.com/@/exception)
 [<img src="https://img.shields.io/badge/-Code Chef-blue"/>](https://www.codechef.com/users/pranavmani22)
 
 <hr></hr>
 
-### Contact me
+### How to reach me
 [<img src="https://img.shields.io/badge/-Portfolio-red"/>](https://pranavmani-portfolio.netlify.app/)
 [<img src="https://img.shields.io/badge/-E Mail-blue"/>](mailto:pranavtripathikishan26@gmail.com)
 [<img src="https://img.shields.io/badge/-Linked In-white"/>](https://www.linkedin.com/in/pranavmanitripathi/)
