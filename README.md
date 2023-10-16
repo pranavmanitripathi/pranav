@@ -19,7 +19,7 @@
 - Java
 - JavaScript
 - TypeScript
-- MySQL
+- SQL
 
 <hr></hr>
 
@@ -28,9 +28,10 @@
 - Node JS
 - React Native
 - Spring Boot
-- Hiberante
+- Hibernate
 - Spring Security
 - Maven
+- MySQL
 - AWS
 - HTML
 - CSS
