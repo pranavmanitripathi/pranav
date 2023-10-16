@@ -13,7 +13,7 @@
 - Currently working on React and Spring Boot.
 <br><br>
 
-<hr></hr>
+
 <br>
 <h2>📊 Github Stats</h2>
 
@@ -27,7 +27,7 @@
 - TypeScript
 - SQL
 
-<hr></hr>
+
 
 ### Technology Known
 - React JS
@@ -42,7 +42,7 @@
 - HTML
 - CSS
 
-<hr></hr>
+
 
 
 ### Coding Profiles
@@ -51,7 +51,7 @@
 [<img src="https://img.shields.io/badge/-Binary Search-green"/>](https://binarysearch.com/@/exception)
 [<img src="https://img.shields.io/badge/-Code Chef-blue"/>](https://www.codechef.com/users/pranavmani22)
 
-<hr></hr>
+
 
 ### How to reach me
 [<img src="https://img.shields.io/badge/-Portfolio-red"/>](https://pranavmani-portfolio.netlify.app/)
